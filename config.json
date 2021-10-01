@@ -1,0 +1,17 @@
+{
+  "twrp_url": "git://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp.git",
+  "twrp_branch": "twrp-11",
+  "git_username": "shuxiangfan",
+  "git_email": "linclonfan@outlook.com@users.noreply.github.com",
+  "use_own_dt": true,
+  "dt_url": "shuxiangfan/android_device_google_blueline-twrp",
+  "dt_branch": "twrp-11",
+  "dt_remote": "github",
+  "dt_path": "device/google/blueline",
+  "device_code": "twrp_blueline",
+  "use_omin_head": false,
+  "use_repair_manifest": false,
+  "fix_product": false,
+  "fix_misscom": false,
+  "fix_busybox": false
+}
